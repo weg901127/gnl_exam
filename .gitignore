@@ -1,0 +1,5 @@
+.vscode
+42testers-gnl
+*.dSYM
+get_next_line
+test
